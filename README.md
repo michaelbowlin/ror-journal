@@ -20,4 +20,3 @@ Repo includes:
 
 * Deployment instructions
 
-* ...
