@@ -1,9 +1,8 @@
-# README
+# Ruby On Rails Journaling Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a ROR CRUD application that will expose Restful endpoints for Angular.
 
-Things you may want to cover:
+Repo includes:
 
 * Ruby version
 
